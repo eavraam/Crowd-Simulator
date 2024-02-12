@@ -26,10 +26,10 @@
 ## <a name="introduction">🤖 Introduction</a>
 Developed using Unity/C#, as part of the Computer Animation (CA) course. This project's goal is to teach students the application of core computer animation techniques in an easy and straightforward way, hence the use of Unity. The project is divided into 4 exercises, with each implemented in separate scenes. However, they are built incrementally on top of each other, meaning that each exercise takes advantage of its predecessor’s functionalities. 
 
-- Exercise 1: Locomotion (DONE)
-- Exercise 2: Collision Detection and Avoidance Between Agents (DONE)
-- Exercise 3: Pathfinding (DONE)
-- Exercise 4: Steering (NOT-DONE)
+- Exercise 1: Locomotion (**DONE**)
+- Exercise 2: Collision Detection and Avoidance Between Agents (**DONE**)
+- Exercise 3: Pathfinding (**DONE**)
+- Exercise 4: Steering (**NOT-DONE**)
 
 ## <a name="how-to-run">⚙️ How to run</a>
 
@@ -68,7 +68,7 @@ Exercise 1: Locomotion|
 
 
 
-## <a name="collision-detection">💡 Collision Detection and Avoidance</a>
+## <a name="collision-detection">💥 Collision Detection and Avoidance</a>
 
 For the second exercise, a crowd of N agents (here: prop cylinders) are instantiated in random
 positions, and are assigned random goals in the scene to move towards. When a goal is reached by an
